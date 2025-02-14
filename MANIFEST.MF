@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Operator: hardeep.it21@bitsathy.ac.in
+Pega-Codeset-Name: Customer
+ArtifactVersion: 01.01.01
+Pega-Archive-Type: ApplicationBundle
+ArtifactType: application
+Pega-Codeset-Version: 06-01-01
+ArtifactName: Gift_Sto
+Name: Gift_Sto_010101_20250209T152302_GMT.zip
+Type: Product
+Synchronizable: false
+Product-Creation-Date: 2025-Feb-09 05:00:00
+Engine-Version: 08-23-05
+Export-Date: 2025-Feb-09 15:23:08
+Instance-Count: 7786
+Archive-Type: PegaArchive
+PRPC-Engine: 8.23.4 PRPC-8.23.4-808 ()
+
+Name: FileMetadata
+
